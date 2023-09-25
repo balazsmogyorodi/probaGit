@@ -9,18 +9,18 @@ public class JavaApplication2 {
 
         
         
-        for (int i = 0; i < 10; i++) {
-            
+        boolean van = true;
+        int szam = 0;
+        
+        while (van) {   
+         if(szam = 3){
+            van = false;
+         }
+            szam++;
         }
         
-        
-        while (true) {            
-            
-        }
-        
-        int hanyadik = 0;
-
-sy        
+ 
+     
 
         
         
