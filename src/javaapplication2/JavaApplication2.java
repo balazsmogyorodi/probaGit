@@ -19,7 +19,7 @@ public class JavaApplication2 {
             szam++;
         }
         
- 
+ System.out.print("hello");
      
 
         
