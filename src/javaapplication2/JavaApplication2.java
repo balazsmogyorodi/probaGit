@@ -6,7 +6,7 @@ public class JavaApplication2 {
 
    
     public static void main(String[] args) {
-        if (true) {
+        while (true) {            
             
         }
         
