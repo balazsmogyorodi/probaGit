@@ -20,6 +20,8 @@ public class JavaApplication2 {
         
         int hanyadik = 0;
 
+sy        
+
         
         
         
