@@ -13,7 +13,7 @@ public class JavaApplication2 {
         int szam = 0;
         
         while (van) {   
-         if(szam = 3){
+         if(szam == 3){
             van = false;
          }
             szam++;
